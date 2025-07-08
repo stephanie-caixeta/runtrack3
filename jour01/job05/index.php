@@ -9,7 +9,9 @@
     </head>
     <body>
 
-        <script> </script>
+        <script> 
+           afficherjourssemaines(); 
+        </script>
 
     </body>
 </html>

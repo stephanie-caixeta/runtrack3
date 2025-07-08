@@ -2,5 +2,9 @@ const jourssemaines = ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samed
 
 function afficherjourssemaines()
 {
-    for ( )
+    for (let i = 0; i < jourssemaines.length; i++)
+    {
+        console.log(jourssemaines[i]);
+    }
+    
 }
